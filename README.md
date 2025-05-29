@@ -1,6 +1,15 @@
 # tech-assessment-hasareli
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+#node module
+Additional Packages
+This project uses additional packages beyond a standard Next.js setup. Notably:
+
+Heroicons: A set of free MIT-licensed high-quality SVG icons for UI development.
+
+
+
+
 ## Getting Started
 
 First, run the development server:
