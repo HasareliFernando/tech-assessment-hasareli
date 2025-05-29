@@ -2,7 +2,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 
-##Additional Packages
+## Additional Packages
 This project uses additional packages beyond a standard Next.js setup. Notably:
 
 Heroicons: A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -23,7 +23,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-##Available Pages
+## Available Pages
 This project includes three main pages, accessible under the /answers route:
 
 Calculator Page
